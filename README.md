@@ -5,6 +5,5 @@
 + [Check our website](https://tools-css.com)
 + [Check our documentation](https://tools-css.com/doc.html)
 + [Download Tools.css](https://tools-css.com/download.html)
-#### ----[Last version]----
-#### 1.0.0 unreleased
+#### [Last version] ➤ 1.0.0
 #### Check the [changelog](CHANGELOG.md)
