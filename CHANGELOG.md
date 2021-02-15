@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+- Last version: 1.0.0
 
 ## [1.0.0] - 2021-??-??
 
@@ -10,6 +10,3 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 -
-
-[Version Download]:
-[1.0.0]: link soon
