@@ -7,4 +7,4 @@
 + [Download Tools.css](https://shonned.github.io/tools-css/) 🦄
 #### [Last version] ➤ 1.0.0 ⬇️
 #### Check the [changelog](CHANGELOG.md)
-#### Created with ♥ by [@Shonned](https://instagram.com/067pm).
+#### Created with 🥖 in France by [@Shonned](https://instagram.com/067pm).
