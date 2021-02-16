@@ -7,6 +7,22 @@
 
 /* Created with <3 by @Shonned. */
 
+/* <----> TEXT CENTER <----> */
+.text-center {text-align: center;}
+/* <----> TEXT CENTER <----> */
+
+/* <----> BORDER 0 <----> */
+.border-0 {border: 0;}
+/* <----> BORDER 0 <----> */
+
+/* <----> MARGIN 0 <----> */
+.margin-0 {margin: 0;}
+/* <----> MARGIN 0 <----> */
+
+/* <----> BACKGROUND <----> */
+.bg-transparent {background: transparent;}
+/* <----> BACKGROUND <----> */
+
 /* <----> FONT SIZE <----> */
 .fs-1 {font-size: 1px;}
 .fs-2 {font-size: 2px;}
@@ -173,8 +189,8 @@
 /* <----> FONT WEIGHT <----> */
 
 /* <----> COLOR <----> */
-.color-black {color: white;}
-.color-white {color: black;}
+.color-black {color: black;}
+.color-white {color: white;}
 .color-red {color: #c70039;}
 .color-green {color: #1ABC9C;}
 .color-blue {color: #1e87f0;}
