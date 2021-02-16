@@ -9,6 +9,10 @@ All notable changes to this project will be documented in this file.
 - I added css elements presented below. Others will be coming soon ⌛
 
 ### Added
+- text-align
+- border
+- margin: 0
+- background
 - font-size
 - font-weight
 - color
