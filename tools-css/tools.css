@@ -7,9 +7,11 @@
 
 /* Created with <3 by @Shonned. */
 
-/* <----> TEXT CENTER <----> */
+/* <----> TEXT <----> */
 .text-center {text-align: center;}
-/* <----> TEXT CENTER <----> */
+.text-left {text-align: left;}
+.text-right {text-align: right;}
+/* <----> TEXT <----> */
 
 /* <----> BORDER 0 <----> */
 .border-0 {border: 0;}
