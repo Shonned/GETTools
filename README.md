@@ -2,9 +2,9 @@
 
 # 👋 tools
 ##### The css file that makes your life easier 😀.
-+ [Check our website](https://tools-css.com) 🌐
-+ [Check our documentation](https://tools-css.com/doc.html) 📖
-+ [Download Tools.css](https://tools-css.com/download.html) 🦄
++ [Check our website](https://shonned.github.io/tools-css/) 🌐
++ [Check our documentation](https://shonned.github.io/tools-css/doc.html) 📖
++ [Download Tools.css](https://shonned.github.io/tools-css/) 🦄
 #### [Last version] ➤ 1.0.0 ⬇️
 #### Check the [changelog](CHANGELOG.md)
 #### Created with ♥ by [@Shonned](https://instagram.com/067pm).
