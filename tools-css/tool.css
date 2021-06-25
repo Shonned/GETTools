@@ -1,0 +1,303 @@
+/* Welcome to Tools.css */
+/* Visit our Github for the last update */
+/* > https://github.com/Shonned/GETTools < */
+
+/* [Current version] > 1.10 */
+/* Check the changelog */
+
+/* Created with <3 by @Shonned. */
+
+/* <----> TEXT <----> */
+.text-center {text-align: center;}
+.text-left {text-align: left;}
+.text-right {text-align: right;}
+/* <----> TEXT <----> */
+
+/* <----> BORDER 0 <----> */
+.border-0 {border: 0;}
+/* <----> BORDER 0 <----> */
+
+/* <----> MARGIN 0 <----> */
+.margin-0 {margin: 0;}
+/* <----> MARGIN 0 <----> */
+
+/* <----> BACKGROUND <----> */
+.bg-transparent {background: transparent;}
+/* <----> BACKGROUND <----> */
+
+/* <----> FONT SIZE <----> */
+.fs-1 {font-size: 1px;}
+.fs-2 {font-size: 2px;}
+.fs-3 {font-size: 3px;}
+.fs-4 {font-size: 4px;}
+.fs-5 {font-size: 5px;}
+.fs-6 {font-size: 6px;}
+.fs-7 {font-size: 7px;}
+.fs-8 {font-size: 8px;}
+.fs-9 {font-size: 9px;}
+.fs-10 {font-size: 10px;}
+.fs-11 {font-size: 11px;}
+.fs-12 {font-size: 12px;}
+.fs-13 {font-size: 13px;}
+.fs-14 {font-size: 14px;}
+.fs-15 {font-size: 15px;}
+.fs-16 {font-size: 16px;}
+.fs-17 {font-size: 17px;}
+.fs-18 {font-size: 18px;}
+.fs-19 {font-size: 19px;}
+.fs-20 {font-size: 20px;}
+.fs-21 {font-size: 21px;}
+.fs-22 {font-size: 22px;}
+.fs-23 {font-size: 23px;}
+.fs-24 {font-size: 24px;}
+.fs-25 {font-size: 25px;}
+.fs-26 {font-size: 26px;}
+.fs-27 {font-size: 27px;}
+.fs-28 {font-size: 28px;}
+.fs-29 {font-size: 29px;}
+.fs-30 {font-size: 30px;}
+.fs-31 {font-size: 31px;}
+.fs-32 {font-size: 32px;}
+.fs-33 {font-size: 33px;}
+.fs-34 {font-size: 34px;}
+.fs-35 {font-size: 35px;}
+.fs-36 {font-size: 36px;}
+.fs-37 {font-size: 37px;}
+.fs-38 {font-size: 38px;}
+.fs-39 {font-size: 39px;}
+.fs-40 {font-size: 40px;}
+.fs-41 {font-size: 41px;}
+.fs-42 {font-size: 42px;}
+.fs-43 {font-size: 43px;}
+.fs-44 {font-size: 44px;}
+.fs-45 {font-size: 45px;}
+.fs-46 {font-size: 46px;}
+.fs-47 {font-size: 47px;}
+.fs-48 {font-size: 48px;}
+.fs-49 {font-size: 49px;}
+.fs-50 {font-size: 50px;}
+.fs-51 {font-size: 51px;}
+.fs-52 {font-size: 52px;}
+.fs-53 {font-size: 53px;}
+.fs-54 {font-size: 54px;}
+.fs-55 {font-size: 55px;}
+.fs-56 {font-size: 56px;}
+.fs-57 {font-size: 57px;}
+.fs-58 {font-size: 58px;}
+.fs-59 {font-size: 59px;}
+.fs-60 {font-size: 60px;}
+.fs-61 {font-size: 61px;}
+.fs-62 {font-size: 62px;}
+.fs-63 {font-size: 63px;}
+.fs-64 {font-size: 64px;}
+.fs-65 {font-size: 65px;}
+.fs-66 {font-size: 66px;}
+.fs-67 {font-size: 67px;}
+.fs-68 {font-size: 68px;}
+.fs-69 {font-size: 69px;}
+.fs-70 {font-size: 70px;}
+.fs-71 {font-size: 71px;}
+.fs-72 {font-size: 72px;}
+.fs-73 {font-size: 73px;}
+.fs-74 {font-size: 74px;}
+.fs-75 {font-size: 75px;}
+.fs-76 {font-size: 76px;}
+.fs-77 {font-size: 77px;}
+.fs-78 {font-size: 78px;}
+.fs-79 {font-size: 79px;}
+.fs-80 {font-size: 80px;}
+.fs-81 {font-size: 81px;}
+.fs-82 {font-size: 82px;}
+.fs-83 {font-size: 83px;}
+.fs-84 {font-size: 84px;}
+.fs-85 {font-size: 85px;}
+.fs-86 {font-size: 86px;}
+.fs-87 {font-size: 87px;}
+.fs-88 {font-size: 88px;}
+.fs-89 {font-size: 89px;}
+.fs-90 {font-size: 90px;}
+.fs-91 {font-size: 91px;}
+.fs-92 {font-size: 92px;}
+.fs-93 {font-size: 93px;}
+.fs-94 {font-size: 94px;}
+.fs-95 {font-size: 95px;}
+.fs-96 {font-size: 96px;}
+.fs-97 {font-size: 97px;}
+.fs-98 {font-size: 98px;}
+.fs-99 {font-size: 99px;}
+.fs-100 {font-size: 100px;}
+.fs-101 {font-size: 101px;}
+.fs-102 {font-size: 102px;}
+.fs-103 {font-size: 103px;}
+.fs-104 {font-size: 104px;}
+.fs-105 {font-size: 105px;}
+.fs-106 {font-size: 106px;}
+.fs-107 {font-size: 107px;}
+.fs-108 {font-size: 108px;}
+.fs-109 {font-size: 109px;}
+.fs-110 {font-size: 110px;}
+.fs-111 {font-size: 111px;}
+.fs-112 {font-size: 112px;}
+.fs-113 {font-size: 113px;}
+.fs-114 {font-size: 114px;}
+.fs-115 {font-size: 115px;}
+.fs-116 {font-size: 116px;}
+.fs-117 {font-size: 117px;}
+.fs-118 {font-size: 118px;}
+.fs-119 {font-size: 119px;}
+.fs-120 {font-size: 120px;}
+.fs-121 {font-size: 121px;}
+.fs-122 {font-size: 122px;}
+.fs-123 {font-size: 123px;}
+.fs-124 {font-size: 124px;}
+.fs-125 {font-size: 125px;}
+.fs-126 {font-size: 126px;}
+.fs-127 {font-size: 127px;}
+.fs-128 {font-size: 128px;}
+.fs-129 {font-size: 129px;}
+.fs-130 {font-size: 130px;}
+.fs-131 {font-size: 131px;}
+.fs-132 {font-size: 132px;}
+.fs-133 {font-size: 133px;}
+.fs-134 {font-size: 134px;}
+.fs-135 {font-size: 135px;}
+.fs-136 {font-size: 136px;}
+.fs-137 {font-size: 137px;}
+.fs-138 {font-size: 138px;}
+.fs-139 {font-size: 139px;}
+.fs-140 {font-size: 140px;}
+.fs-141 {font-size: 141px;}
+.fs-142 {font-size: 142px;}
+.fs-143 {font-size: 143px;}
+.fs-144 {font-size: 144px;}
+.fs-145 {font-size: 145px;}
+.fs-146 {font-size: 146px;}
+.fs-147 {font-size: 147px;}
+.fs-148 {font-size: 148px;}
+.fs-149 {font-size: 149px;}
+.fs-150 {font-size: 150px;}
+/* <----> FONT SIZE <----> */
+
+/* <----> FONT WEIGHT <----> */
+.fw-100 {font-weight: 100;}
+.fw-200 {font-weight: 200;}
+.fw-300 {font-weight: 300;}
+.fw-400 {font-weight: 400;}
+.fw-500 {font-weight: 500;}
+.fw-600 {font-weight: 600;}
+.fw-700 {font-weight: 700;}
+.fw-800 {font-weight: 800;}
+.fw-900 {font-weight: 900;}
+/* <----> FONT WEIGHT <----> */
+
+/* <----> COLOR <----> */
+.color-black {color: black;}
+.color-white {color: white;}
+.color-red {color: #c70039;}
+.color-green {color: #1ABC9C;}
+.color-blue {color: #1e87f0;}
+.color-yellow {color: #ffc30f;}
+.color-orange {color: #ff5733;}
+/* <----> COLOR <----> */
+
+/* <----> OPACITY <----> */
+.opacity-0 {opacity: 0;}
+.opacity-0-1 {opacity: 0.1;}
+.opacity-0-2 {opacity: 0.2;}
+.opacity-0-3 {opacity: 0.3;}
+.opacity-0-4 {opacity: 0.4;}
+.opacity-0-5 {opacity: 0.5;}
+.opacity-0-6 {opacity: 0.6;}
+.opacity-0-7 {opacity: 0.7;}
+.opacity-0-8 {opacity: 0.8;}
+.opacity-0-9 {opacity: 0.9;}
+.opacity-1 {opacity: 1;}
+/* <----> OPACITY <----> */
+
+/* <----> MARGIN <----> */
+.mt-1 {margin-top: 1rem;}
+.mt-2 {margin-top: 2rem;}
+.mt-3 {margin-top: 3rem;}
+.mt-4 {margin-top: 4rem;}
+.mt-5 {margin-top: 5rem;}
+.mt-6 {margin-top: 6rem;}
+.mt-7 {margin-top: 7rem;}
+.mt-8 {margin-top: 8rem;}
+.mt-9 {margin-top: 9rem;}
+.mt-10 {margin-top: 10rem;}
+.ml-1 {margin-left: 1rem;}
+.ml-2 {margin-left: 2rem;}
+.ml-3 {margin-left: 3rem;}
+.ml-4 {margin-left: 4rem;}
+.ml-5 {margin-left: 5rem;}
+.ml-6 {margin-left: 6rem;}
+.ml-7 {margin-left: 7rem;}
+.ml-8 {margin-left: 8rem;}
+.ml-9 {margin-left: 9rem;}
+.ml-10 {margin-left: 10rem;}
+.mr-1 {margin-right: 1rem;}
+.mr-2 {margin-right: 2rem;}
+.mr-3 {margin-right: 3rem;}
+.mr-4 {margin-right: 4rem;}
+.mr-5 {margin-right: 5rem;}
+.mr-6 {margin-right: 6rem;}
+.mr-7 {margin-right: 7rem;}
+.mr-8 {margin-right: 8rem;}
+.mr-9 {margin-right: 9rem;}
+.mr-10 {margin-right: 10rem;}
+.mb-1 {margin-bottom: 1rem;}
+.mb-2 {margin-bottom: 2rem;}
+.mb-3 {margin-bottom: 3rem;}
+.mb-4 {margin-bottom: 4rem;}
+.mb-5 {margin-bottom: 5rem;}
+.mb-6 {margin-bottom: 6rem;}
+.mb-7 {margin-bottom: 7rem;}
+.mb-8 {margin-bottom: 8rem;}
+.mb-9 {margin-bottom: 9rem;}
+.mb-10 {margin-bottom: 10rem;}
+/* <----> MARGIN <----> */
+
+/* <----> PADDING <----> */
+.pt-1 {padding-top: 1rem;}
+.pt-2 {padding-top: 2rem;}
+.pt-3 {padding-top: 3rem;}
+.pt-4 {padding-top: 4rem;}
+.pt-5 {padding-top: 5rem;}
+.pt-6 {padding-top: 6rem;}
+.pt-7 {padding-top: 7rem;}
+.pt-8 {padding-top: 8rem;}
+.pt-9 {padding-top: 9rem;}
+.pt-10 {padding-top: 10rem;}
+.pl-1 {padding-left: 1rem;}
+.pl-2 {padding-left: 2rem;}
+.pl-3 {padding-left: 3rem;}
+.pl-4 {padding-left: 4rem;}
+.pl-5 {padding-left: 5rem;}
+.pl-6 {padding-left: 6rem;}
+.pl-7 {padding-left: 7rem;}
+.pl-8 {padding-left: 8rem;}
+.pl-9 {padding-left: 9rem;}
+.pl-10 {padding-left: 10rem;}
+.pr-1 {padding-right: 1rem;}
+.pr-2 {padding-right: 2rem;}
+.pr-3 {padding-right: 3rem;}
+.pr-4 {padding-right: 4rem;}
+.pr-5 {padding-right: 5rem;}
+.pr-6 {padding-right: 6rem;}
+.pr-7 {padding-right: 7rem;}
+.pr-8 {padding-right: 8rem;}
+.pr-9 {padding-right: 9rem;}
+.pr-10 {padding-right: 10rem;}
+.pb-1 {padding-bottom: 1rem;}
+.pb-2 {padding-bottom: 2rem;}
+.pb-3 {padding-bottom: 3rem;}
+.pb-4 {padding-bottom: 4rem;}
+.pb-5 {padding-bottom: 5rem;}
+.pb-6 {padding-bottom: 6rem;}
+.pb-7 {padding-bottom: 7rem;}
+.pb-8 {padding-bottom: 8rem;}
+.pb-9 {padding-bottom: 9rem;}
+.pb-10 {padding-bottom: 10rem;}
+/* <----> PADDING <----> */
+
+/* <----> Other features availlabe in a future update <----> */
