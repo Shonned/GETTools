@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://shonned.github.io/tools-css/"><img src="https://i.ibb.co/B49nkwB/banner.png" /></a>
   <br>
-  tools.css
 </h1>
 
 <h4 align="center">The css file that makes your life easier</h4>
