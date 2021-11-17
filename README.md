@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center"><b>THE CSS FILE THAT MAKES YOUR LIFE EASIER</b></h4>
+<h4 align="center"><b>TOOLS NEXT COMING SOON</b></h4>
 
 <p align="center">
   <a href="https://shonned.github.io/tools-css/">Website</a>&nbsp;|&nbsp;<a href="#documentation">Documentation</a>&nbsp;|&nbsp;<a href="https://github.com/Shonned/GETTools/releases">Download</a>&nbsp;|&nbsp;<a href="CHANGELOG.md">Changelog</a>
@@ -20,5 +20,4 @@
 * [Border](https://shonned.github.io/tools-css/doc.html#B)
 * [Text-Align](https://shonned.github.io/tools-css/doc.html#TA)
 
-#### [Last version] ➤ 1.10 ⬇️
 #### Created with 🥖 in France by [@Shonned](https://github.com/Shonned/).
