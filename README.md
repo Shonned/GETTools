@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">The css file that makes your life easier</h4>
+<h4 align="center"><b>THE CSS FILE THAT MAKES YOUR LIFE EASIER</b></h4>
 
 <p align="center">
   <a href="https://shonned.github.io/tools-css/">Website</a>&nbsp;|&nbsp;<a href="#documentation">Documentation</a>&nbsp;|&nbsp;<a href="https://github.com/Shonned/GETTools/releases">Download</a>&nbsp;|&nbsp;<a href="CHANGELOG.md">Changelog</a>
